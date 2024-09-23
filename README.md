@@ -1,6 +1,6 @@
 # PCOS-Chatbot
 
-<a href="https://github.com/tejaswinisamanta/PCOS-Chatbot">
+<a>
   <img src="https://media.licdn.com/dms/image/v2/D562DAQFz5jG-BXhKlg/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1727089737864?e=1727697600&v=beta&t=QUEIVoILEhTJ6S1lSXSjldIYEZ_1NQU3_4DDAZMsZuI">
 </a>
 
