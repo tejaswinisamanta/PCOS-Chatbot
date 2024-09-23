@@ -29,9 +29,7 @@
     
 • Embeddings Model:
 
-   o PubMedBert-Base-embeddings
-   
-   o bltos·JfhyggjogfaQcOg{NftyMLJPYbmedbCO:CNl$Hmbeddl09$
+   o PubMedBert-Base-embedding
 
 
 # Process
