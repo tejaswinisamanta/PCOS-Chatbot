@@ -29,7 +29,7 @@
     
 • Embeddings Model:
 
-   o PubMedBert-Base-embedding
+    o PubMedBert-Base-embedding
 
 
 # Process
@@ -52,10 +52,10 @@ Querying
 
 • Query the chatbot
 
-   o Pass query to Retriever
+    o Pass query to Retriever
    
-   o Retrieves relevant docs from Vector Store (KNN)
+    o Retrieves relevant docs from Vector Store (KNN)
    
-   o Pass both query and docs to LLM
+    o Pass both query and docs to LLM
    
-   o Generate the response
+    o Generate the response
