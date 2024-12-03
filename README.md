@@ -4,6 +4,17 @@
   <img src="https://media.licdn.com/dms/image/v2/D562DAQFz5jG-BXhKlg/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1727089737864?e=1727697600&v=beta&t=QUEIVoILEhTJ6S1lSXSjldIYEZ_1NQU3_4DDAZMsZuI">
 </a>
 
+LunaCare is an AI-powered medical chatbot specializing in Polycystic Ovary Syndrome (PCOS) and
+women's reproductive health. Leveraging the BioMistral-7B model with Retrieval-Augmented
+Generation (RAG), it provides accurate, personalized, and culturally sensitive information. The system
+integrates advanced technologies like LangChain for conversational pipelines, Sentence-Transformers for
+embeddings, and Chroma for efficient vector storage.
+
+Designed to address the stigma surrounding women's health in India, LunaCare offers a safe,
+private, and accessible platform to raise awareness and empower users with reliable healthcare
+information.
+
+
 # Medical Chatbot using RAG
 
 • Data: PCOS.pdf
